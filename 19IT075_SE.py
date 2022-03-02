@@ -1,1 +1,1 @@
-print("Devanshu Parekh\n19IT075")
+print("19IT075")
